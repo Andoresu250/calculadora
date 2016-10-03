@@ -24,6 +24,7 @@
   "homepage": "https://github.com/jestrade/bootstrap-sass#readme",
   "devDependencies": {
     "del": "^2.2.2",
+    "grunt": "^1.0.1",
     "gulp": "^3.9.1",
     "gulp-cache": "^0.4.5",
     "gulp-concat": "^2.6.0",
